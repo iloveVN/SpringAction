@@ -28,6 +28,7 @@ public class AccountDaoImpl implements IAccountDao{
 	 * @see com.garen.dao.IAccountDao#account()
 	 */
 	public void account() {
+		int a = 1;
 		System.out.println("保存记录！");		
 	}
 
